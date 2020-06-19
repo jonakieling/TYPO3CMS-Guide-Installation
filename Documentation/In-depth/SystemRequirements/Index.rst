@@ -232,6 +232,10 @@ Example Configuration:
        include              fastcgi.conf;
    }
 
+General
+-------
+
+* The web server must be able to access its own public URL.
 
 .. _system-requirements-php:
 
